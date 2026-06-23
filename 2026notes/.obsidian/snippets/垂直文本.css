@@ -1,0 +1,105 @@
+/* Obsidian 阅读视图垂直排版 - 最终纯净稳定版 (详细注释版) */
+/* 核心目标：在阅读视图中实现从右至左的垂直排版，并严格防止任何内容撑破布局，同时保持Obsidian原生的滚动体验。 */
+
+.markdown-reading-view .markdown-preview-view .markdown-preview-section {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  text-combine-upright: digits 4;
+
+  max-width: 1920px !important;
+  box-sizing: border-box !important;
+  width: auto;
+  overflow-wrap: break-word;
+  /* === 修复：启用横向滚动条 === */
+  overflow-x: auto;
+  /* 当内容宽度（垂直排版下的总高度）超过 max-width 时，显示水平滚动条 */
+  /* 建议同时隐藏可能出现的纵向滚动条，保持界面干净 */
+  overflow-y: hidden;
+}
+
+/* === 第二部分：保护规则 === */
+/* 以下规则确保特定元素在垂直排版的大环境中，其内容仍保持水平的阅读方向，以保证可读性。 */
+.markdown-reading-view .markdown-preview-view pre code,
+/* 代码块内部的代码 */
+.markdown-reading-view .markdown-preview-view code,
+/* 行内代码 */
+.markdown-reading-view .markdown-preview-view .math,
+/* 数学公式块 */
+.markdown-reading-view .markdown-preview-view .task-list-item-checkbox,
+/* 任务列表的复选框 */
+.markdown-reading-view .markdown-preview-view img {
+  /* 所有图片 */
+  /* 强制将书写模式改回标准的水平方向。 */
+  writing-mode: horizontal-tb !important;
+  /* 将文本方向重置为初始值（通常为水平）。 */
+  text-orientation: initial !important;
+  /* 关闭数字组合特性。 */
+  text-combine-upright: initial !important;
+}
+
+/* === 第三部分：防撑破约束规则 === */
+/* 以下规则为易导致容器宽度“爆炸”的元素添加第二层保险，确保其尺寸不会超出主容器。 */
+
+/* 1. 媒体元素约束 (图片、视频、内嵌框架) */
+.markdown-reading-view .markdown-preview-view .markdown-preview-section img,
+.markdown-reading-view .markdown-preview-view .markdown-preview-section video,
+.markdown-reading-view .markdown-preview-view .markdown-preview-section iframe {
+  /* 最大宽度限制为父容器(.markdown-preview-section)宽度的100%，这是防止撑破的关键。 */
+  max-width: 100% !important;
+  /* 高度自动按比例缩放，保持图像的宽高比，避免变形。 */
+  height: auto;
+  /* 将元素设为块级，使其独占一行并便于应用 margin:auto 进行居中。 */
+  display: block;
+  /* 上下边距为1个字体高度，左右边距自动（实现水平居中）。在垂直排版中，“上下”对应实际视觉的“左右”。 */
+  margin: 1em auto;
+}
+
+/* 针对“图标”类小图片的例外规则：不限制其最大宽度，避免被错误放大。 */
+.markdown-reading-view .markdown-preview-view .markdown-preview-section img[src*="icon"] {
+  max-width: none;
+}
+
+/* 2. 链接（特别是长URL）约束 */
+.markdown-reading-view .markdown-preview-view .markdown-preview-section a {
+  /* 允许在单词内的任何字符处进行断行，这是处理长URL最有效的方法。 */
+  word-break: break-all !important;
+  /* 更智能的断词方式，作为 break-all 的补充，优先在可断点（如标点）处断开。 */
+  overflow-wrap: anywhere;
+  /* 设置为内联块，以便 max-width 属性能够对其生效。 */
+  display: inline-block;
+  /* 额外添加宽度限制，作为断词规则的补充保障。 */
+  max-width: 100%;
+  /* 防止下划线在垂直排版中跳过字符（如字母g、y的尾部）。 */
+  text-decoration-skip-ink: none;
+}
+
+/* 3. 代码块约束 */
+.markdown-reading-view .markdown-preview-view .markdown-preview-section pre,
+.markdown-reading-view .markdown-preview-view .markdown-preview-section code {
+  /* 限制代码块的最大宽度。 */
+  max-width: 100%;
+  /* 如果代码行过长，在限制宽度的同时提供水平滚动条，确保内容可访问。 */
+  overflow-x: auto;
+}
+
+/* 4. 表格约束 */
+.markdown-reading-view .markdown-preview-view table {
+  /* 限制表格最大宽度。 */
+  max-width: 100% !important;
+  /* 将表格显示为块级元素，使其宽度约束生效并脱离表格默认的流动布局。 */
+  display: block !important;
+  /* 允许表格在宽度受限时横向滚动。 */
+  overflow-x: auto !important;
+}
+
+/* === 修复：强制段落换行 === */
+.markdown-reading-view .markdown-preview-view .markdown-preview-section p {
+  /* 确保段落是块级元素，这是换行的基础 */
+  display: block;
+  /* 关键：将空白处理方式设为 normal，允许自动换行 */
+  white-space: normal !important;
+  /* 明确设置宽度为100%，继承父容器限制 */
+  width: 100%;
+  /* 防止因padding或border导致意外溢出 */
+  box-sizing: border-box;
+}

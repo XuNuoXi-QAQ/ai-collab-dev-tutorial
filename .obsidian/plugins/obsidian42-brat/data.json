@@ -1,0 +1,44 @@
+{
+  "pluginList": [
+    "coddingtonbear/obsidian-local-rest-api",
+    "XuNuoxi/obsidian-luopan",
+    "AlexMason/feedle",
+    "yanghuidong/picsake",
+    "aitorllj93/obsidian-lovely-bases"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "coddingtonbear/obsidian-local-rest-api",
+      "version": "4.1.3"
+    },
+    {
+      "repo": "XuNuoxi/obsidian-luopan",
+      "version": "v1.0.1"
+    },
+    {
+      "repo": "AlexMason/feedle",
+      "version": ""
+    },
+    {
+      "repo": "yanghuidong/picsake",
+      "version": ""
+    },
+    {
+      "repo": "aitorllj93/obsidian-lovely-bases",
+      "version": "0.2.2"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "globalTokenName": "",
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}

@@ -1,0 +1,16 @@
+{
+  "showImageInfo": true,
+  "allowMediaDeletion": false,
+  "autoOpenFirstImage": false,
+  "openMediaBrowserOnClick": true,
+  "disableClickToOpenMediaOnGallery": false,
+  "muteVideoOnOpen": false,
+  "galleryGridSize": "medium",
+  "galleryGridSizeSmall": 100,
+  "galleryGridSizeMedium": 150,
+  "galleryGridSizeLarge": 200,
+  "itemsPerPage": 2,
+  "insertAtEnd": true,
+  "displayOriginalSize": false,
+  "autoPlayInterval": 2
+}

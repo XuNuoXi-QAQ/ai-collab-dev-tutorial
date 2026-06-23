@@ -1,0 +1,30 @@
+{
+  "attachPath": {
+    "attachmentRoot": "attachments",
+    "saveAttE": "obsFolder",
+    "attachmentPath": "${notename}/",
+    "attachFormat": "${notename}",
+    "type": "GLOBAL",
+    "extensionOverride": [
+      {
+        "extension": "",
+        "attachmentRoot": "attachments",
+        "saveAttE": "obsFolder",
+        "attachmentPath": "${notename}/",
+        "attachFormat": "IMG-${notename}"
+      }
+    ]
+  },
+  "dateFormat": "YYYYMMDDHHmmssSSS",
+  "excludeExtensionPattern": "base|pdf|mp3|xsl|gpx",
+  "autoRenameAttachment": true,
+  "excludedPaths": "0Tasks/在编书籍/",
+  "excludePathsArray": [
+    "0Tasks/在编书籍/"
+  ],
+  "excludeSubpaths": true,
+  "overridePath": {},
+  "disableNotification": false,
+  "language": "en",
+  "originalNameStorage": []
+}

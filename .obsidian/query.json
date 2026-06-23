@@ -1,0 +1,13 @@
+{
+  "queries": [
+    {
+      "createdAt": "2024/04/25 13:30:23",
+      "id": "202404251330231",
+      "pinnedAt": "",
+      "querystring": "[{\"type\":\"LIST\",\"value\":{\"operator\":\"IS_NOT\",\"value\":\"DONE\"},\"relation\":\"AND\"},{\"type\":\"LIST\",\"value\":{\"operator\":\"IS_NOT\",\"value\":\"TODO\"},\"relation\":\"AND\"}]",
+      "title": "dairy",
+      "updatedAt": "2024/04/25 13:30:23",
+      "userId": "Thino"
+    }
+  ]
+}

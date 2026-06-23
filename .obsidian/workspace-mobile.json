@@ -1,0 +1,489 @@
+{
+  "main": {
+    "id": "63d5273371a15f8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a01660774950cfb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9cf767ffd5a928d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0Tasks/ai数字人.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "ai数字人"
+            }
+          },
+          {
+            "id": "9e163ac6b6e9bb14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0Tasks/在编书籍/智械考工录/智械通义考工录/第三编：人间经纬——社会影响图谱.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "第三编：人间经纬——社会影响图谱"
+            }
+          },
+          {
+            "id": "9bca445588c1293a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB/文脉/道/德经帛书.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "德经帛书"
+            }
+          },
+          {
+            "id": "a40a54399618161a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB/文脉/道/德经帛书.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "德经帛书"
+            }
+          },
+          {
+            "id": "e2727dbf7bdc0d8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DB"
+            }
+          },
+          {
+            "id": "b30e09932fbe8ed8",
+            "type": "leaf",
+            "state": {
+              "type": "grid-view",
+              "state": {
+                "type": "grid-view",
+                "state": {
+                  "sourceMode": "folder",
+                  "sourcePath": "0Tasks/03Resource",
+                  "baseSortType": "mtime-desc",
+                  "sortType": "mtime-desc",
+                  "searchQuery": "",
+                  "searchCurrentLocationOnly": false,
+                  "searchFilesNameOnly": false,
+                  "searchMediaFiles": false,
+                  "fileNameFilterQuery": "",
+                  "includeMedia": false,
+                  "minMode": false,
+                  "showIgnoredItems": false,
+                  "baseCardLayout": "horizontal",
+                  "cardLayout": "horizontal",
+                  "hideHeaderElements": false,
+                  "showFileNameFilter": false,
+                  "showDateDividers": false,
+                  "showNoteTags": false,
+                  "recentSources": [],
+                  "futureSources": [],
+                  "bookmarkGroupId": "all"
+                }
+              },
+              "icon": "folder",
+              "title": "0Tasks/03Resource"
+            }
+          },
+          {
+            "id": "836d20c346d4eb84",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
+          },
+          {
+            "id": "d6bf81d2fdd37bce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "basic.thino.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "basic.thino"
+            }
+          },
+          {
+            "id": "2386dfd3de807868",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ],
+        "currentTab": 8
+      },
+      {
+        "id": "adc9093e566e3147",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22dd402d17f981b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "diary/2021-03-06-起源.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73b7938038c466d2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5ab38f4d4c6c410c",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "recent-files"
+        }
+      },
+      {
+        "id": "6769624d56472bf2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "c662bf91ffe71c66",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "75ed9255e401acdd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "1881018487446042",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "starred"
+        }
+      },
+      {
+        "id": "4e75e2766ad23cb3",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "file-tree-view"
+        }
+      },
+      {
+        "id": "259a8a105030e4c7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      },
+      {
+        "id": "1cdf3408efb4ea57",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "mk-path-view"
+        }
+      },
+      {
+        "id": "f93579b396d95fd4",
+        "type": "leaf",
+        "state": {
+          "type": "trash-explorer",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "trash-explorer"
+        }
+      },
+      {
+        "id": "b28c42f4fa9bdbf4",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      },
+      {
+        "id": "6a17e075921ec1fb",
+        "type": "leaf",
+        "state": {
+          "type": "notebook-navigator",
+          "state": {},
+          "icon": "notebook-navigator",
+          "title": "笔记本导航器"
+        }
+      }
+    ],
+    "currentTab": 10
+  },
+  "right": {
+    "id": "f49acf5a1a1391a2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cdcfcfcfff3e9c79",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "calendar"
+        }
+      },
+      {
+        "id": "e552180f3c1946e9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "0Tasks/古今中外笔削录-nuoxi/道经/心之力.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "6779e3fc26d5d857",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "0Tasks/古今中外笔削录-nuoxi/道经/心之力.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "c54dd43514231fea",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "0Tasks/古今中外笔削录-nuoxi/道经/黄帝四经/十大经/24名刑.md",
+            "followCursor": false,
+            "showSearch": true,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "mediaviewer:打开媒体浏览器": false,
+      "gridexplorer:打开网格视图": false,
+      "diarian:Select Diarian view": false,
+      "notebook-navigator:笔记本导航器": false,
+      "yearly-glance:打开年度概览": false,
+      "obsidian-chinese-map-view:Open map view": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "bases:创建新数据库": false,
+      "omnisearch:Omnisearch": false,
+      "tldraw:Create new tldrawing": false,
+      "obsidian-memos:Thino": false
+    }
+  },
+  "active": "2386dfd3de807868",
+  "lastOpenFiles": [
+    "Nuoxi-diary/世界观/罗盘/attachments/罗盘设计/3D圆环/旋转特效罗盘6.0.html",
+    "Nuoxi-diary/世界观/罗盘/罗盘设计.md",
+    "Nuoxi-diary/世界观/罗盘/轩辕五贇阵0.1.html",
+    "0Tasks/古今中外笔削录-nuoxi/道经/黄帝四经/十大经/24名刑.md",
+    "0Tasks/古今中外笔削录-nuoxi/道经/苦集灭道-wiki-佛法.md",
+    "0Tasks/古今中外笔削录-nuoxi/道经/诺溪参同德道经.md",
+    "0Tasks/古今中外笔削录-nuoxi/道经/心之力.md",
+    "0Tasks/古今中外笔削录-nuoxi/道经/名实与指物.md",
+    "未命名.md",
+    "旭日八卦yaml.md",
+    "DB.md",
+    "DB/兴趣/Basic and Core/150/元素周期表中文版.pdf",
+    "DB/Read/书/黄帝四经/十大经/18成法.md",
+    "diary/2021-03-06-起源.md",
+    "DB/Read/书/黄帝四经/十大经/17兵容.md",
+    "DB/Read/书/黄帝四经/道原经.md",
+    "DB/Read/书/黄帝四经/十大经/11观第.md",
+    "DB/Read/书/黄帝四经/经法/8论约.md",
+    "DB/Read/书/黄帝四经/经法/9名理.md",
+    "DB/Read/书/黄帝四经/经法/3君正.md",
+    "DB/Read/书/黄帝四经/经法/1道法.md",
+    "DB/Read/书/黄帝四经/经法/7亡论.md",
+    "DB/書房.md",
+    "DB/Read/金融帝国：美国金融霸权的来源和基础/2美帝国的机构.md",
+    "DB/Read/文脉/道/论衡/1逢遇篇.md",
+    "DB/Read/文脉/组合系统.md",
+    "DB/文脉/道/德经帛书.md",
+    "DB/文脉/道/道经帛书.md",
+    "attachments/44-审美被篡改 原版是汉服舞台 明朝洪武正韵 玉盘原名问月-480P 标清-AVC.mp3",
+    "diary/世界观/社会各系统关系.canvas",
+    "diary/MBTI-Nuoxi/attachments/diary/MBTI-Nuoxi/IMG-20251230223838809.png",
+    "diary/MBTI-Nuoxi/attachments/diary/MBTI-Nuoxi/IMG-20251230223838814.png",
+    "diary/MBTI-Nuoxi/attachments/diary/MBTI-Nuoxi/IMG-20251230223838926.png",
+    "diary/MBTI-Nuoxi/attachments/diary/MBTI-Nuoxi/IMG-20251230223838839.jpg",
+    "diary/MBTI-Nuoxi/attachments/diary/MBTI-Nuoxi/IMG-20251230223838818.jpeg",
+    "diary/MBTI-Nuoxi/attachments/diary/MBTI-Nuoxi/IMG-20251230223838842.png",
+    "diary/MBTI-Nuoxi/attachments/diary/MBTI-Nuoxi",
+    "diary/MBTI-Nuoxi/attachments/2025-11-23T03-31-47",
+    "diary/MBTI-Nuoxi/attachments/diary",
+    "diary/MBTI-Nuoxi/诊疗",
+    "diary/MBTI-Nuoxi/模拟态",
+    "diary/MBTI-Nuoxi/情感模块",
+    "diary/MBTI-Nuoxi/八字五行",
+    "0Tasks/Family-Knowledge/Over/attachments/0Tasks/Family-Knowledge/Over/IMG-20251230223856592.png",
+    "0Tasks/Family-Knowledge/Over/attachments/0Tasks/Family-Knowledge/Over/IMG-20251230223856640.jpg",
+    "0Tasks/Family-Knowledge/New/attachments/0Tasks/Family-Knowledge/New/IMG-20251230223856597.png",
+    "未命名.canvas",
+    "Family-Knowledge/未命名.canvas",
+    "attachments/IMG-20251123055848491.jpg",
+    "DB/Read/36术.canvas"
+  ]
+}

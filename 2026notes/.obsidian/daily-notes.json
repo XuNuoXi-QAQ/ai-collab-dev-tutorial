@@ -1,0 +1,5 @@
+{
+  "folder": "diary",
+  "template": "DB/Template/",
+  "format": "YYYY-MM-DD"
+}

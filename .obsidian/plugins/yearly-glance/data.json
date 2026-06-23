@@ -1,0 +1,177 @@
+{
+  "config": {
+    "year": 2026,
+    "layout": "4x3",
+    "viewType": "calendar",
+    "showWeekdays": true,
+    "highlightToday": true,
+    "highlightWeekends": true,
+    "showLegend": true,
+    "limitListHeight": false,
+    "hideEmptyDates": false,
+    "eventFontSize": "small",
+    "showHolidays": true,
+    "showBirthdays": true,
+    "showCustomEvents": true,
+    "mondayFirst": false,
+    "title": "",
+    "showEmojiBeforeTabName": true,
+    "showTooltips": true,
+    "colorful": true,
+    "showLunarDay": true,
+    "showDebugInfo": false,
+    "presetColors": [
+      {
+        "label": "红色",
+        "value": "#FF2D55",
+        "enable": true,
+        "id": "red"
+      },
+      {
+        "label": "橙色",
+        "value": "#FF9500",
+        "enable": true,
+        "id": "orange"
+      },
+      {
+        "label": "黄色",
+        "value": "#FFCC00",
+        "enable": true,
+        "id": "yellow"
+      },
+      {
+        "label": "绿色",
+        "value": "#65DB39",
+        "enable": true,
+        "id": "green"
+      },
+      {
+        "label": "蓝色",
+        "value": "#34AADC",
+        "enable": true,
+        "id": "blue"
+      },
+      {
+        "label": "紫色",
+        "value": "#CC73E1",
+        "enable": true,
+        "id": "purple"
+      },
+      {
+        "label": "棕色",
+        "value": "#A2845E",
+        "enable": true,
+        "id": "brown"
+      }
+    ],
+    "emojiOnTop": false,
+    "wrapEventText": false,
+    "gregorianDisplayFormat": "YYYY年MM月DD日"
+  },
+  "data": {
+    "holidays": [],
+    "birthdays": [
+      {
+        "id": "birth-8d6cac88",
+        "text": "航航生日",
+        "eventDate": {
+          "isoDate": "2015-10-20",
+          "calendar": "GREGORIAN",
+          "userInput": {
+            "input": "2015-10-20"
+          }
+        },
+        "dateArr": [
+          "2026-10-20"
+        ],
+        "nextBirthday": "2026-10-20",
+        "age": 10,
+        "animal": "乙未羊",
+        "zodiac": "天秤座"
+      },
+      {
+        "id": "birth-b710e79a",
+        "text": "老妈生日",
+        "eventDate": {
+          "isoDate": "1969-03-27",
+          "calendar": "LUNAR",
+          "userInput": {
+            "input": "1969-03-27",
+            "calendar": "LUNAR"
+          }
+        },
+        "dateArr": [
+          "2026-05-13"
+        ],
+        "nextBirthday": "2027-05-03",
+        "age": 57,
+        "animal": "己酉鸡",
+        "zodiac": "白羊座"
+      }
+    ],
+    "customEvents": [
+      {
+        "id": "event-82dfd318",
+        "text": "Install YG plugin",
+        "eventDate": {
+          "isoDate": "2025-07-26",
+          "calendar": "GREGORIAN",
+          "userInput": {
+            "input": "2025-07-26",
+            "calendar": "GREGORIAN"
+          }
+        },
+        "emoji": "🎉",
+        "color": "#73d13d",
+        "isRepeat": false,
+        "remark": "Welcome to use Yearly Glance plugin! This is a sample event. You can hide or delete it as needed.",
+        "dateArr": [
+          "2026-07-26"
+        ]
+      },
+      {
+        "id": "event-1b34bc9c",
+        "text": "开始公众号",
+        "eventDate": {
+          "isoDate": "2025-01-01",
+          "calendar": "GREGORIAN",
+          "userInput": {
+            "input": "2025-01-01",
+            "calendar": "GREGORIAN"
+          }
+        },
+        "dateArr": [
+          "2026-01-01"
+        ]
+      },
+      {
+        "id": "event-72863e56",
+        "text": "开始每天环湖跑步",
+        "eventDate": {
+          "isoDate": "2025-02-02",
+          "calendar": "GREGORIAN",
+          "userInput": {
+            "input": "2025-02-02"
+          }
+        },
+        "dateArr": [
+          "2026-02-02"
+        ]
+      },
+      {
+        "id": "event-97e67eb8",
+        "text": "开始阅读《易经》",
+        "eventDate": {
+          "isoDate": "2025-03-02",
+          "calendar": "GREGORIAN",
+          "userInput": {
+            "input": "2025-03-02"
+          }
+        },
+        "dateArr": [
+          "2026-03-02"
+        ]
+      }
+    ]
+  }
+}
