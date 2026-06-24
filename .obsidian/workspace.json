@@ -11,13 +11,52 @@
             "id": "a41f507a5c75affa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026notes/AI与开发/Quartz + GitHub Actions 全自动化博客搭建指南.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Quartz + GitHub Actions 全自动化博客搭建指南"
+            }
+          },
+          {
+            "id": "4be851cf5c1bfb02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026notes/AI与开发/Obsidian Git.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian Git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,8 +155,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "notebook-navigator",
-              "title": "笔记本导航器"
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
             }
           }
         ],
@@ -125,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.4948539733887
+    "width": 517.5
   },
   "right": {
     "id": "4e390742ffc29613",
@@ -263,6 +302,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "realclaudian:Open Claudian": false,
+      "lang-plus:I18n+ Dictionary Manager": false,
       "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -274,6 +315,7 @@
       "random-note:开始漫游笔记": false,
       "audio-recorder:开始/结束录音": false,
       "workspaces:管理工作区布局": false,
+      "obsidian-git:Open Git source control": false,
       "tldraw:Create new tldrawing": false,
       "obsidian-chinese-map-view:Open map view": false,
       "mediaviewer:打开媒体浏览器": false,
@@ -283,13 +325,13 @@
       "obsidian42-brat:BRAT": false,
       "omnisearch:Omnisearch": false,
       "notebook-navigator:笔记本导航器": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "realclaudian:Open Claudian": false,
-      "lang-plus:I18n+ Dictionary Manager": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a41f507a5c75affa",
+  "active": "4be851cf5c1bfb02",
   "lastOpenFiles": [
+    "2026notes/AI与开发/Quartz + GitHub Actions 全自动化博客搭建指南.md",
+    "2026notes/AI与开发/Obsidian Git.md",
     "docs/09-multi-agent-architecture.md",
     "AI与开发/Quartz 和 GitHub Pages.md",
     "AI与开发/Quartz + GitHub Actions 全自动化博客搭建指南.md",
@@ -314,8 +356,6 @@
     "安全与密钥/GitHub SSH 密钥.md",
     "行业知识/企业协同办公领域市场.md",
     "行业知识/环球科学.md",
-    "行业知识/全球产业对标.md",
-    "硬件与DIY/光伏结构设计术语.md",
     "安全与密钥",
     "行业知识",
     "硬件与DIY",
