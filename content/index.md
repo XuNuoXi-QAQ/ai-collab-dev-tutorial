@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "🏠 知识库仪表盘"
 tags:
   - MOC
