@@ -4,83 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4fc71e78e845b2c3",
+        "id": "10f4b831c6d75fc6",
         "type": "tabs",
         "children": [
           {
-            "id": "a41f507a5c75affa",
+            "id": "5eb5b0dec1aaf13e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026notes/AI与开发/Quartz + GitHub Actions 全自动化博客搭建指南.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Quartz + GitHub Actions 全自动化博客搭建指南"
-            }
-          },
-          {
-            "id": "4be851cf5c1bfb02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/01-git-github-basics.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "01-git-github-basics"
-            }
-          },
-          {
-            "id": "19e4de024f54a16f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/index.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -352,46 +289,46 @@
       "lang-plus:I18n+ Dictionary Manager": false
     }
   },
-  "active": "19e4de024f54a16f",
+  "active": "5eb5b0dec1aaf13e",
   "lastOpenFiles": [
+    "2026notes/硬件与DIY与杂记/光伏结构设计技术指导手册.md",
+    "2026notes/安全与密钥/U盾.md",
+    "2026notes/全球视野",
+    "2026notes/安全与密钥/GitHub SSH 密钥.md",
+    "2026notes/安全与密钥/KeePass.md",
+    "2026notes/实用工具/Espanso.md",
+    "2026notes/实用工具",
+    "2026notes/Ops/docs/00-complete-learning-record.md",
+    "2026notes/Ops/docs/02-quartz-digital-garden.md",
+    "2026notes/Ops/系统信息与状态命令精讲/1系统信息与状态命令精讲.md",
+    "2026notes/Dev/Manjaro AI 工作流终极指南.md",
+    "2026notes/操作系统/Manjaro 运行 Android 应用完全指南：Waydroid 部署与使用.md",
+    "2026notes/操作系统",
+    "2026notes/Agent系统运维/1Panel.md",
+    "2026notes/Agent系统运维/系统运维 MOC.md",
+    "2026notes/全球视野/全球产业对标.md",
+    "2026notes/实用工具/企业协同办公领域市场.md",
+    "2026notes/Newspaper/环球科学.md",
+    "2026notes/Newspaper",
+    "2026notes/硬件与DIY与杂记/attachments/光为视讯14+2百兆POE交换机配置",
+    "2026notes/硬件与DIY与杂记/attachments",
+    "2026notes/硬件与DIY与杂记/microSD存储卡（TF卡）知识科普及选购秘诀.md",
+    "2026notes/硬件与DIY与杂记/光为视讯14+2百兆POE交换机配置.md",
+    "2026notes/硬件与DIY与杂记/航拍无人机推荐存储卡列表.md",
+    "2026notes/硬件与DIY与杂记/DIY便携式显示器.md",
+    "2026notes/硬件与DIY/硬件与DIY MOC.md",
+    "2026notes/Ops/系统管理命令.md",
+    "2026notes/🏠 知识库仪表盘.md",
+    "2026notes/Dev/CONTRIBUTING.md",
+    "content/index.md",
     "content",
     "README.md",
-    "docs/02-quartz-digital-garden.md",
-    "docs/workflows/ssh-config-example.md",
-    "docs/workflows/pr-template.md",
-    "docs/workflows/gitconfig-example.md",
-    "docs/workflows/git-complete-guide.md",
-    "docs/workflows/git-commands.md",
-    "docs/workflows/ci.md",
-    "docs/workflows",
-    "docs/ci.md",
-    "examples/workflows/ci.md",
-    "docs/ssh-config-example.md",
-    "docs/pr-template.md",
-    "docs/gitconfig-example.md",
-    "docs/git-commands.md",
-    "examples/git-commands.md",
-    "examples/ssh-config-example.md",
-    "examples/gitconfig-example.md",
-    "docs/00-complete-learning-record.md",
-    "examples/pr-template.md",
-    "content/index.md",
-    "2026notes/🏠 知识库仪表盘.md",
-    "CONTRIBUTING.md",
-    "docs/01-git-github-basics.md",
-    "2026notes/AI与开发/Obsidian Git.md",
-    "2026notes/AI与开发/Quartz + GitHub Actions 全自动化博客搭建指南.md",
+    "2026notes/Ops/workflows/ssh-config-example.md",
+    "2026notes/Ops/workflows",
     "安全与密钥",
     "行业知识",
-    "硬件与DIY",
-    "系统运维",
-    "AI与开发",
-    "attachments/光为视讯14+2百兆POE交换机配置",
-    "attachments",
     "attachments/光为视讯14+2百兆POE交换机配置/光为视讯14+2百兆POE交换机配置-1.jpg",
     "attachments/光为视讯14+2百兆POE交换机配置/光为视讯14+2百兆POE交换机配置.jpg",
-    "assets",
-    "故事会",
     "Nuoxi-diary/MBTI-Nuoxi/attachments/Quik/IMG-Quik-6.jpeg",
     "Nuoxi-diary/MBTI-Nuoxi/attachments/Quik/IMG-Quik-16.tmp.jpeg",
     "Nuoxi-diary/MBTI-Nuoxi/attachments/Quik/IMG-Quik-15.tmp.jpeg",

@@ -48,9 +48,3 @@ created: 2026-06-23
 - [[移动系统制作]] — 便携 Windows/Linux 系统
 - [[Proxmox VE 9.0 安装与基础配置完全指南]] — 硬件虚拟化
 
-```dataview
-TABLE tags, file.size AS "大小(KB)", file.cday AS "创建日期"
-FROM "硬件与DIY"
-WHERE !contains(tags, "MOC")
-SORT file.name ASC
-```"

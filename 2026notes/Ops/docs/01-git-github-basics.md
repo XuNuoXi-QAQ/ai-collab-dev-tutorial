@@ -503,7 +503,7 @@ ssh -T git@github.com-b
 - [GitHub 官方文档](https://docs.github.com/)
 - [Pro Git 书籍（中文版）](https://git-scm.com/book/zh/v2)
 - [GitHub SSH 密钥配置指南](https://docs.github.com/zh/authentication/connecting-to-github-with-ssh)
-- [完整学习记录：Git 多账户管理](../00-complete-learning-record.md#五git-多账户管理核心内容)
+- [完整学习记录：Git 多账户管理](00-complete-learning-record.md#五git-多账户管理核心内容)
 
 ---
 

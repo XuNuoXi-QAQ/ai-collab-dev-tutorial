@@ -134,18 +134,18 @@ cd ai-collab-dev-tutorial
 | 文档 | 主题 | 难度 | 推荐指数 |
 |------|------|------|----------|
 | [Git 完整知识体系精讲](docs/git-complete-guide.md) | 完整 Git 知识框架、多账户管理、协作工作流 | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| [完整学习记录](docs/00-complete-learning-record.md) | 全天学习记录、系统运维、跨端框架等 | ⭐⭐ | ⭐⭐⭐ |
+| [完整学习记录](00-complete-learning-record.md) | 全天学习记录、系统运维、跨端框架等 | ⭐⭐ | ⭐⭐⭐ |
 
 ### 分章节教学
 
 | 章节 | 主题 | 适合人群 |
 |------|------|----------|
-| [01 - Git 与 GitHub 基础](docs/01-git-github-basics.md) | 版本控制入门、基本命令、多账户管理 | 初学者 |
-| [02 - 分支管理策略](docs/02-branch-management.md) | Git Flow、GitHub Flow、分支命名规范 | 初中级开发者 |
-| [03 - Pull Request 工作流程](docs/03-pull-request-workflow.md) | PR 创建、审查、合并的完整流程 | 所有开发者 |
-| [04 - Code Review 最佳实践](docs/04-code-review-best-practices.md) | 高效代码审查的方法与技巧 | 中高级开发者 |
-| [05 - AI 辅助开发工具](docs/05-ai-dev-tools.md) | 提升开发效率的 AI 工具推荐 | 所有开发者 |
-| [06 - 团队协作规范](docs/06-team-collaboration-norms.md) | 团队协作的标准化流程与规范 | 团队负责人 |
+| [01 - Git 与 GitHub 基础](01-git-github-basics.md) | 版本控制入门、基本命令、多账户管理 | 初学者 |
+| [02 - 分支管理策略](02-branch-management.md) | Git Flow、GitHub Flow、分支命名规范 | 初中级开发者 |
+| [03 - Pull Request 工作流程](03-pull-request-workflow.md) | PR 创建、审查、合并的完整流程 | 所有开发者 |
+| [04 - Code Review 最佳实践](04-code-review-best-practices.md) | 高效代码审查的方法与技巧 | 中高级开发者 |
+| [05 - AI 辅助开发工具](05-ai-dev-tools.md) | 提升开发效率的 AI 工具推荐 | 所有开发者 |
+| [06 - 团队协作规范](06-team-collaboration-norms.md) | 团队协作的标准化流程与规范 | 团队负责人 |
 
 ---
 
