@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "2026notes/index.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -306,6 +306,7 @@
   "active": "cca0fe65c929781b",
   "lastOpenFiles": [
     "index.md",
+    "2026notes/index.md",
     "content/index.md",
     "content/硬件与DIY MOC.md",
     "2026notes/🏠 知识库仪表盘.md",
@@ -336,7 +337,6 @@
     "2026notes/硬件与DIY与杂记/航拍无人机推荐存储卡列表.md",
     "2026notes/硬件与DIY与杂记/DIY便携式显示器.md",
     "2026notes/硬件与DIY/硬件与DIY MOC.md",
-    "2026notes/Ops/系统管理命令.md",
     "content",
     "2026notes/Ops/workflows",
     "安全与密钥",
