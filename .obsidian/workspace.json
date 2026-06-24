@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "506c3d0a9d80185f",
+        "id": "8609da2eeabcc3a1",
         "type": "tabs",
         "children": [
           {
-            "id": "71ac9eb2b86f70f2",
+            "id": "21c05c4b06e606ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "f42d28af10606541",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -328,10 +303,10 @@
       "lang-plus:I18n+ Dictionary Manager": false
     }
   },
-  "active": "f42d28af10606541",
+  "active": "21c05c4b06e606ca",
   "lastOpenFiles": [
-    "Quartz 搭建博客过程中最常遇到的坑.md",
     "README.md",
+    "Quartz 搭建博客过程中最常遇到的坑.md",
     "2026notes/index.md",
     "2026notes/未命名.md",
     "2026notes/未命名 1.md",

@@ -1,6 +1,6 @@
 ---
+title: "nuoxi小站"
 publish: true
-title: "🏠 知识库仪表盘"
 tags:
   - MOC
   - 仪表盘
@@ -11,13 +11,6 @@ aliases:
   - Home
 created: 2026-06-23
 ---
-
-# 🏠 知识库仪表盘
-
-> 最后更新：`= date(today)`
-
----
-
 
 
 ## 📊 标签总览
