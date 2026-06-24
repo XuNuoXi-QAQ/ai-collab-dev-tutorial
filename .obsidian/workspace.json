@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/02-quartz-digital-garden.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "02-quartz-digital-garden"
+              "title": "README"
             }
           }
         ],
@@ -352,8 +352,9 @@
       "lang-plus:I18n+ Dictionary Manager": false
     }
   },
-  "active": "cca0fe65c929781b",
+  "active": "19e4de024f54a16f",
   "lastOpenFiles": [
+    "docs/02-quartz-digital-garden.md",
     "docs/workflows/ssh-config-example.md",
     "docs/workflows/pr-template.md",
     "docs/workflows/gitconfig-example.md",
@@ -380,7 +381,6 @@
     "2026notes/AI与开发/Obsidian Git.md",
     "2026notes/AI与开发/Quartz + GitHub Actions 全自动化博客搭建指南.md",
     "docs/09-multi-agent-architecture.md",
-    "AI与开发/Quartz 和 GitHub Pages.md",
     "安全与密钥",
     "行业知识",
     "硬件与DIY",
