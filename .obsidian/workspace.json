@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026notes/AI与开发/Obsidian Git.md",
+                "file": "docs/01-git-github-basics.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Obsidian Git"
+              "title": "01-git-github-basics"
+            }
+          },
+          {
+            "id": "19e4de024f54a16f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/02-quartz-digital-garden.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "02-quartz-digital-garden"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -302,8 +326,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "realclaudian:Open Claudian": false,
-      "lang-plus:I18n+ Dictionary Manager": false,
       "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -325,37 +347,40 @@
       "obsidian42-brat:BRAT": false,
       "omnisearch:Omnisearch": false,
       "notebook-navigator:笔记本导航器": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "realclaudian:Open Claudian": false,
+      "lang-plus:I18n+ Dictionary Manager": false
     }
   },
-  "active": "4be851cf5c1bfb02",
+  "active": "cca0fe65c929781b",
   "lastOpenFiles": [
-    "2026notes/AI与开发/Quartz + GitHub Actions 全自动化博客搭建指南.md",
+    "docs/workflows/ssh-config-example.md",
+    "docs/workflows/pr-template.md",
+    "docs/workflows/gitconfig-example.md",
+    "docs/workflows/git-complete-guide.md",
+    "docs/workflows/git-commands.md",
+    "docs/workflows/ci.md",
+    "docs/workflows",
+    "docs/ci.md",
+    "examples/workflows/ci.md",
+    "docs/ssh-config-example.md",
+    "docs/pr-template.md",
+    "docs/gitconfig-example.md",
+    "docs/git-commands.md",
+    "examples/git-commands.md",
+    "examples/ssh-config-example.md",
+    "examples/gitconfig-example.md",
+    "docs/00-complete-learning-record.md",
+    "examples/pr-template.md",
+    "index.md",
+    "2026notes/🏠 知识库仪表盘.md",
+    "CONTRIBUTING.md",
+    "README.md",
+    "docs/01-git-github-basics.md",
     "2026notes/AI与开发/Obsidian Git.md",
+    "2026notes/AI与开发/Quartz + GitHub Actions 全自动化博客搭建指南.md",
     "docs/09-multi-agent-architecture.md",
     "AI与开发/Quartz 和 GitHub Pages.md",
-    "AI与开发/Quartz + GitHub Actions 全自动化博客搭建指南.md",
-    "AI与开发/三省六部与 AI Agent 编排：权力制衡与职能分工的跨时空同构.md",
-    "AI与开发/LazyPi.md",
-    "AI与开发/Codex for CAD 工程应用评测报告.md",
-    "AI与开发/HAPI-本地优先的 AI 编程远程控制框架.md",
-    "AI与开发/MCP 模型上下文协议 - 完整指南.md",
-    "AI与开发/MCP.md",
-    "系统运维/系统运维 MOC.md",
-    "系统运维/Local REST API with MCP.md",
-    "AI与开发/MCP 协议详解.md",
-    "MCP 协议详解.md",
-    "安全与密钥/Espanso.md",
-    "安全与密钥/KeePass.md",
-    "🏠 知识库仪表盘.md",
-    "硬件与DIY/硬件与DIY MOC.md",
-    "AI与开发/AI 工具链 MOC.md",
-    "光伏结构设计术语.md",
-    "Manjaro AI 工作流终极指南.md",
-    "安全与密钥/U盾.md",
-    "安全与密钥/GitHub SSH 密钥.md",
-    "行业知识/企业协同办公领域市场.md",
-    "行业知识/环球科学.md",
     "安全与密钥",
     "行业知识",
     "硬件与DIY",
@@ -367,7 +392,6 @@
     "attachments/光为视讯14+2百兆POE交换机配置/光为视讯14+2百兆POE交换机配置.jpg",
     "assets",
     "故事会",
-    "Ops/系统信息与状态命令精讲",
     "Nuoxi-diary/MBTI-Nuoxi/attachments/Quik/IMG-Quik-6.jpeg",
     "Nuoxi-diary/MBTI-Nuoxi/attachments/Quik/IMG-Quik-16.tmp.jpeg",
     "Nuoxi-diary/MBTI-Nuoxi/attachments/Quik/IMG-Quik-15.tmp.jpeg",
