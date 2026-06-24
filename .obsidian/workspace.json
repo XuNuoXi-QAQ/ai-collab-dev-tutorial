@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "10f4b831c6d75fc6",
+        "id": "506c3d0a9d80185f",
         "type": "tabs",
         "children": [
           {
-            "id": "5eb5b0dec1aaf13e",
+            "id": "71ac9eb2b86f70f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/index.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "index"
             }
           }
         ]
@@ -289,8 +303,13 @@
       "lang-plus:I18n+ Dictionary Manager": false
     }
   },
-  "active": "5eb5b0dec1aaf13e",
+  "active": "cca0fe65c929781b",
   "lastOpenFiles": [
+    "index.md",
+    "content/index.md",
+    "content/硬件与DIY MOC.md",
+    "2026notes/🏠 知识库仪表盘.md",
+    "2026notes/系统运维 MOC.md",
     "2026notes/硬件与DIY与杂记/光伏结构设计技术指导手册.md",
     "2026notes/安全与密钥/U盾.md",
     "2026notes/全球视野",
@@ -318,12 +337,7 @@
     "2026notes/硬件与DIY与杂记/DIY便携式显示器.md",
     "2026notes/硬件与DIY/硬件与DIY MOC.md",
     "2026notes/Ops/系统管理命令.md",
-    "2026notes/🏠 知识库仪表盘.md",
-    "2026notes/Dev/CONTRIBUTING.md",
-    "content/index.md",
     "content",
-    "README.md",
-    "2026notes/Ops/workflows/ssh-config-example.md",
     "2026notes/Ops/workflows",
     "安全与密钥",
     "行业知识",
