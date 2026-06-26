@@ -1,0 +1,1 @@
+Skill  is only tolls of  information
