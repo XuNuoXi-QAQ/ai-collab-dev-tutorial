@@ -1,3 +1,11 @@
+---
+title: "NvimTree"
+tags:
+  - Neovim
+  - Git
+description: "🔑 NvimTree 快捷键速查表"
+created: 2026-06-23
+---
 
 ### 🔑 NvimTree 快捷键速查表
 

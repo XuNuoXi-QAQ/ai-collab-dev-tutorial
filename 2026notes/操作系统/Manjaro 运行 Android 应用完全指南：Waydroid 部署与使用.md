@@ -6,9 +6,10 @@ tags:
   - 容器
   - Manjaro
 aliases:
-  - Waydroid指南
-created: 2026-06-23
+  - "Waydroid指南"
+description: "在 Manjaro 上运行手机应用，核心思路是创建一个 Android 容器，它像是一个与系统共享内核的轻量级“虚拟机”，因此性能损耗很小。目前最主流、最推荐的方案是 Waydroid。"
 ---
+
 ## 一、背景与方案选型
 
 ### 1.1 为什么需要 Android 容器？

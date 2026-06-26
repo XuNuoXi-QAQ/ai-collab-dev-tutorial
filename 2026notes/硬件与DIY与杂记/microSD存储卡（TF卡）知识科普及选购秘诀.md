@@ -1,11 +1,9 @@
 ---
-title: 
+title: "microSD存储卡（TF卡）知识科普及选购秘诀"
 document_type: "技术参考报告"
 version: "v2.0"
 updated_date: "2026-06-24"
 status: "已发布"
-
-# 核心标签
 tags:
   - microSD
   - TF卡
@@ -17,35 +15,29 @@ tags:
   - 行车记录仪
   - 无人机存储
   - 游戏掌机扩容
-
-# 别名（用于快速检索）
 aliases:
   - "TF卡完全指南"
   - "microSD选购圣经"
   - "存储卡速度等级速查"
-
-# Obsidian显示与样式
 cssclasses:
   - "zh"
   - "tech-report"
   - "long-read"
-
-# 来源与作者信息
 author: "存储印象 (知乎专栏)"
 source_url: "https://zhuanlan.zhihu.com/p/576264854"
 word_count: "102,400+"
-
-# 本文适用的硬件场景（用于关联查询）
 applicable_devices:
-  - 数码相机
-  - 无人机
-  - 运动相机
-  - 智能手机
-  - 安防监控摄像头
-  - 行车记录仪
-  - 游戏掌机 (Nintendo Switch, Steam Deck)
-  - 平板电脑
+  - "数码相机"
+  - "无人机"
+  - "运动相机"
+  - "智能手机"
+  - "安防监控摄像头"
+  - "行车记录仪"
+  - "游戏掌机 (Nintendo Switch, Steam Deck)"
+  - "平板电脑"
+description: "存储卡体积小、容量大，是数码相机、无人机、手机、安防摄像头、行车记录仪、便携式电脑等设备上不可或缺的独立存储介质。当前主流的存储卡类型包括SD卡、microSD卡（TF卡）、NM卡、XQD卡和CFexpress卡等。其中，microSD卡（TF卡）是应用最为广泛的存储卡类型，广泛用于安防摄像头、行车记录仪、无人机、运动相机、点读笔、电子书、平板电脑、插卡音箱等产品上。"
 ---
+
 
 
 ## 1. 概述

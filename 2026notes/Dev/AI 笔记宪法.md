@@ -6,10 +6,11 @@ tags:
   - Obsidian
   - RAG
 aliases:
-  - 笔记宪法
-  - AI笔记规范
-created: 2026-06-23
+  - "笔记宪法"
+  - "AI笔记规范"
+description: "1. 双重读者视角：笔记必须同时服务于人类读者和 AI 检索系统。"
 ---
+
 > **用途**：将此提示词注入到 AI（如 DeepSeek、Claude、GPT）的系统提示词或会话前缀中，AI 将自动遵循以下规范生成 Obsidian 知识库笔记。  
 > **版本**：v3.0  
 > **适用场景**：RAG 知识库构建、技术文档编写、Obsidian 笔记创作  

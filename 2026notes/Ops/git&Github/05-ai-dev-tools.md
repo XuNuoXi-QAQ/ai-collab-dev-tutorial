@@ -1,3 +1,14 @@
+---
+title: "05-ai-dev-tools"
+tags:
+  - Git
+  - GitHub
+  - 版本控制
+  - Neovim
+description: "GitHub Copilot 是 GitHub 和 OpenAI 合作开发的 AI 编程助手，基于 GPT 模型。"
+created: 2026-06-23
+---
+
 # 第 5 章：AI 辅助开发工具介绍
 
 ## 🎯 学习目标

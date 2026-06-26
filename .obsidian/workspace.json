@@ -11,10 +11,24 @@
             "id": "0fd73e3c8177dee6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "README"
             }
           }
         ]
@@ -291,6 +305,8 @@
   },
   "active": "0fd73e3c8177dee6",
   "lastOpenFiles": [
+    "2026notes/Dev/libvips.md",
+    "2026notes/Dev/Obsidian 视频制作工作流.md",
     "2026notes/Ops/信创 AI 一体机交付操作手册.md",
     "2026notes/Ops/git&Github/12-agent-frameworks.md",
     "2026notes/Ops/git&Github/11-agent-collaboration-practice.md",
@@ -319,8 +335,6 @@
     "2026notes/Ops/system/7网络管理命令精讲.md",
     "2026notes/Ops/system/6用户与权限管理命令精讲.md",
     "2026notes/Ops/system/5包管理（pacman   yay    paru）命令精讲.md",
-    "2026notes/Ops/system/4磁盘与文件系统管理命令精讲.md",
-    "2026notes/Ops/system/3服务管理（systemd）命令精讲.md",
     "2026notes/Ops/system",
     "2026notes/全球视野",
     "2026notes/实用工具",

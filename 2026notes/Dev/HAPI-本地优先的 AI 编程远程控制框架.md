@@ -1,14 +1,17 @@
 ---
 title: "HAPI-本地优先的 AI 编程远程控制框架"
 tags:
-  - AI-Agent
-  - 远程控制
-  - HAPI
+  - "AI-Agent"
+  - "远程控制"
+  - "HAPI"
 aliases:
-  - HAPI
-  - HAPI框架
-created: 2026-06-23
+  - "HAPI"
+  - "HAPI框架"
+description: "让你在任何地方都能继续你的\"Vibe Coding\"——通过手机安全地远程操控电脑上运行的 AI 编程助手。"
+description: "让你在任何地方都能继续你的\"Vibe Coding\"——通过手机安全地远程操控电脑上运行的 AI 编程助手。"
 ---
+
+
 让你在任何地方都能继续你的"Vibe Coding"——通过手机安全地远程操控电脑上运行的 AI 编程助手。
 
 

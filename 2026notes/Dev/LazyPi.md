@@ -1,5 +1,5 @@
 ---
-title: LazyPi — Pi Agent 一键全家桶
+title: "LazyPi — Pi Agent 一键全家桶"
 tags:
   - Pi
   - AI-Agent
@@ -7,9 +7,10 @@ tags:
   - MCP
   - 开发工具
 aliases:
-  - LazyPi
-created: 2026-06-23
+  - "LazyPi"
+description: "LazyPi 是 Pi 编程智能体的官方推荐「预置器」——一条命令安装 60+ 社区 Skills、76 个主题、MCP 服务器集成、子代理系统、记忆模块和规划工具，把 Pi 从极简终端 Agent 瞬间升级为功能完备的 AI 编程环境。"
 ---
+
 
 # LazyPi — Pi Agent 一键全家桶
 

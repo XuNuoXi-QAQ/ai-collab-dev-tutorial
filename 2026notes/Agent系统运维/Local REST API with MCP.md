@@ -5,10 +5,11 @@ tags:
   - MCP
   - Obsidian
 aliases:
-  - 本地REST API
-  - Local REST API
-created: 2026-06-23
+  - "本地REST API"
+  - "Local REST API"
+description: "Give your scripts, browser extensions, and AI agents a direct line into your Obsidian vault via a secure, authenticated REST API."
 ---
+
 # Local REST API with MCP
 # 本地 REST API 与 MCP
 

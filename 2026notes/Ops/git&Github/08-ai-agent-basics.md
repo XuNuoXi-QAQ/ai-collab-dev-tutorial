@@ -1,9 +1,16 @@
 ---
-tags: [AI, Agent, 基础概念, 人工智能]
-aliases: [AI Agent 入门, 智能体基础]
-created: 2026-06-21
-updated: 2026-06-21
+title: "08-ai-agent-basics"
+tags:
+  - AI
+  - Agent
+  - 基础概念
+  - 人工智能
+aliases:
+  - "AI Agent 入门"
+  - "智能体基础"
+description: "Agent 能够通过各种方式感知环境："
 ---
+
 
 # AI Agent 基础概念
 

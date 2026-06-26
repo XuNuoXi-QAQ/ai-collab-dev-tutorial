@@ -1,3 +1,12 @@
+---
+title: "FHS文件系统规范_Linux"
+tags:
+  - 笔记
+  - Linux
+description: "Linux 系统常用目录清单。"
+created: 2026-06-23
+---
+
 Linux 系统常用目录清单。
 
 
@@ -86,4 +95,3 @@ Linux 系统常用目录清单。
 > **dev 管设备，proc 看内核，**  
 > **tmp 暂存，var 常变，**  
 > **usr 最大装软件，opt 独立放三方。**
-

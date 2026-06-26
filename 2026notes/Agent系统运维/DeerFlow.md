@@ -1,3 +1,18 @@
+---
+title: "DeerFlow"
+tags:
+  - AI
+  - 运维
+  - 系统管理
+  - Agent
+  - MCP
+  - Docker
+  - Linux
+  - Git
+description: "DeerFlow 具备上传、处理和“发送”文件的能力。它的运作更像一个“AI生产力工厂”："
+created: 2026-06-23
+---
+
 DeerFlow 具备上传、处理和“发送”文件的能力。它的运作更像一个“AI生产力工厂”：
 
 · 📤 上传文件：你可以通过它的 HTTP API 接口，将文件上传到对话线程中作为输入。例如给AI一份PDF让它分析。

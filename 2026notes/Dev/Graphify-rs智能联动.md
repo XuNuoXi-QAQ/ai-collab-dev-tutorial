@@ -7,9 +7,10 @@ tags:
   - OpenCode
   - MCP
 aliases:
-  - Graphify联动
-created: 2026-06-23
+  - "Graphify联动"
+description: "要将 Graphify-rs 和 AstrBot、Obsidian、OpenCode 联合起来，关键在于 MCP (模型上下文协议)。这个协议像一个“万能插座”，能让不同的 AI 工具以标准化的方式“插入”并读取我们的知识图谱。"
 ---
+
 要将 **Graphify-rs** 和 **AstrBot**、**Obsidian**、**OpenCode** 联合起来，关键在于 **MCP (模型上下文协议)**。这个协议像一个“万能插座”，能让不同的 AI 工具以标准化的方式“插入”并读取我们的知识图谱。
 
 下面是具体的联动方案，从基础到应用，层层递进。

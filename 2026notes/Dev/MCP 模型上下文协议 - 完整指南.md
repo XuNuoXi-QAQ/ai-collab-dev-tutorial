@@ -8,12 +8,12 @@ tags:
   - AstrBot
   - 工具链
 aliases:
-  - MCP协议
-  - 模型上下文协议
-  - Model Context Protocol
-created: 2026-06-23
-updated: 2026-06-23
+  - "MCP协议"
+  - "模型上下文协议"
+  - "Model Context Protocol"
+description: "MCP（Model Context Protocol，模型上下文协议）是一个开放标准协议，专为解决大语言模型与外部世界「隔离」的问题而设计。你可以把它理解为 AI 领域的「万能插头」——就像 USB-C 接口统一了手机、电脑、外设的连接方式，MCP 统一了 AI 模型与各种外部工具、数据源之间的交互方式。"
 ---
+
 
 # MCP 模型上下文协议 — 完整指南
 

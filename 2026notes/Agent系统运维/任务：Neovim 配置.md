@@ -1,3 +1,17 @@
+---
+title: "任务：Neovim 配置"
+tags:
+  - AI
+  - 运维
+  - 系统管理
+  - Agent
+  - Neovim
+  - Linux
+  - Git
+description: "在当前机器上配置 Neovim（版本 ≥ 0.8.0），使其具备："
+created: 2026-06-23
+---
+
 # 任务：为 Neovim 配置左侧目录树 + 右侧大纲，并绑定 ALT+1/ALT+0 切换
 
 ## 目标

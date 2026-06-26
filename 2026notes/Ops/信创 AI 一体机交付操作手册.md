@@ -1,3 +1,13 @@
+---
+title: "信创 AI 一体机交付操作手册"
+tags:
+  - 笔记
+  - Docker
+  - Linux
+description: "适用机型：鲲鹏 920 + 昇腾 Atlas 300I Pro"
+created: 2026-06-23
+---
+
 **文档版本**：V1.0  
 **适用机型**：鲲鹏 920 + 昇腾 Atlas 300I Pro  
 **操作系统**：银河麒麟高级服务器操作系统 V10  

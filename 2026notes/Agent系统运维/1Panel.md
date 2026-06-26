@@ -6,9 +6,10 @@ tags:
   - Linux
   - 面板
 aliases:
-  - 1Panel面板
-created: 2026-06-23
+  - "1Panel面板"
+description: "1Panel 的配置文件实际路径可能在 `/opt/1panel/resource/app.yaml` 或其他位置，不过这不影响使用。`find` 命令没找到可能是因为权限或路径问题，不用纠结。"
 ---
+
 ### 关于 app.yaml 找不到的问题
 
 1Panel 的配置文件实际路径可能在 `/opt/1panel/resource/app.yaml` 或其他位置，不过这不影响使用。`find` 命令没找到可能是因为权限或路径问题，不用纠结。

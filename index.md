@@ -1,16 +1,17 @@
 ---
 title: "nuoxi小站"
-publish: true
+publish: True
 tags:
   - MOC
   - 仪表盘
   - dashboard
 aliases:
-  - 首页
-  - Dashboard
-  - Home
-created: 2026-06-23
+  - "首页"
+  - "Dashboard"
+  - "Home"
+description: "📖 [[AI 笔记宪法]] — AI 生成笔记的规范"
 ---
+
 
 
 ## 📊 标签总览

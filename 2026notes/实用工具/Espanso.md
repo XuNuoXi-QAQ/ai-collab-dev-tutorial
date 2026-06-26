@@ -1,5 +1,5 @@
 ---
-title: Espanso — 跨平台文本扩展器完全指南
+title: "Espanso — 跨平台文本扩展器完全指南"
 tags:
   - Espanso
   - 文本扩展
@@ -8,10 +8,11 @@ tags:
   - Obsidian
   - 自动化
 aliases:
-  - 文本扩展器
-  - 文字片段工具
-created: 2026-06-23
+  - "文本扩展器"
+  - "文字片段工具"
+description: "Espanso 是一个开源、隐私优先、跨平台的文本扩展器（Text Expander）——输入简短触发词，自动展开为完整文本片段，支持日期计算、Shell 脚本注入、表单交互和剪贴板操作。"
 ---
+
 
 # Espanso — 跨平台文本扩展器完全指南
 

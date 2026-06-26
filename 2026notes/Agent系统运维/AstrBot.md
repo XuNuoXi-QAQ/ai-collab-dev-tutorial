@@ -5,9 +5,10 @@ tags:
   - 机器人
   - 聊天
 aliases:
-  - AstrBot机器人
-created: 2026-06-23
+  - "AstrBot机器人"
+description: "`systemctl --user restart astrbot`"
 ---
+
 重启命令
 `systemctl --user restart astrbot`
 

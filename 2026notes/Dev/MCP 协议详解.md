@@ -1,3 +1,16 @@
+---
+title: "MCP 协议详解"
+tags:
+  - AI
+  - 开发
+  - 技术
+  - MCP
+  - Obsidian
+  - AstrBot
+description: "AstrBot 通过 MCP 协议连接各种扩展服务："
+created: 2026-06-23
+---
+
 # MCP 协议详解
 
 > **MCP** = Model Context Protocol（模型上下文协议）

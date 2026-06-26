@@ -6,10 +6,11 @@ tags:
   - 历史
   - 故事
 aliases:
-  - RedHat
-  - 红帽Linux
-created: 2026-06-23
+  - "RedHat"
+  - "红帽Linux"
+description: "1994年10月31日，万圣节之夜，一个代号为“Halloween”的Linux发行版悄然发布。它正式的名称是“Red Hat Software (RHS) Linux”。这张CD-ROM里包含了223个软件包，另有超过400个软件包可以通过FTP获取。"
 ---
+
 ## 起源：万圣节夜晚的第一次亮相
 
 1994年10月31日，万圣节之夜，一个代号为“Halloween”的Linux发行版悄然发布。它正式的名称是“Red Hat Software (RHS) Linux”。这张CD-ROM里包含了**223个软件包**，另有超过400个软件包可以通过FTP获取。

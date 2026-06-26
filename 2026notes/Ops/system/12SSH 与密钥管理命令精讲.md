@@ -6,8 +6,9 @@ tags:
   - 密钥
   - 安全
   - 运维
-created: 2026-06-23
+description: "SSH（Secure Shell）是远程连接 Linux 服务器的核心工具，也是与 GitHub 等代码托管平台安全通信的基础。这组命令帮助你生成、管理和使用 SSH 密钥。"
 ---
+
 # SSH 与密钥管理命令精讲
 
 SSH（Secure Shell）是远程连接 Linux 服务器的核心工具，也是与 GitHub 等代码托管平台安全通信的基础。这组命令帮助你生成、管理和使用 SSH 密钥。

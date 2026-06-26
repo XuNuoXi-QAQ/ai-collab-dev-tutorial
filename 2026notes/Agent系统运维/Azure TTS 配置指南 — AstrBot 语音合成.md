@@ -1,13 +1,14 @@
 ---
-title: Azure TTS 配置指南 — AstrBot 语音合成
+title: "Azure TTS 配置指南 — AstrBot 语音合成"
 tags:
   - azure
   - tts
   - astrbot
   - 语音合成
   - 教程
-created: 2026-06-23
+description: "1. 登录 Azure 门户 → 搜索「语音服务」或「Speech Services」"
 ---
+
 
 # Azure TTS 配置指南 — AstrBot 语音合成
 

@@ -1,9 +1,17 @@
 ---
-tags: [AI, Agent, 开发实践, 最佳实践, 协作]
-aliases: [AI 协作开发, Agent 开发实践]
-created: 2026-06-21
-updated: 2026-06-21
+title: "11-agent-collaboration-practice"
+tags:
+  - AI
+  - Agent
+  - 开发实践
+  - 最佳实践
+  - 协作
+aliases:
+  - "AI 协作开发"
+  - "Agent 开发实践"
+description: "优点：效率高，AI 承担大部分工作"
 ---
+
 
 # Agent 协作开发实践
 

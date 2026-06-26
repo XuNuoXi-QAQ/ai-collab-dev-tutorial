@@ -6,10 +6,11 @@ tags:
   - 自动化
   - Hyperframes
 aliases:
-  - 视频自动化体系
-  - Obsidian视频工作流
-created: 2026-06-23
+  - "视频自动化体系"
+  - "Obsidian视频工作流"
+description: "结合多个 AI 模型生成更高质量的脚本："
 ---
+
 ## 一、优化后的整体架构
 
 ```

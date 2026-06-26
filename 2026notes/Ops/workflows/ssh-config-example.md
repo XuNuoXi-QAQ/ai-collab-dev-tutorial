@@ -1,3 +1,13 @@
+---
+title: "ssh-config-example"
+tags:
+  - 工作流
+  - CI/CD
+  - Git
+description: "Host github.com-a"
+created: 2026-06-23
+---
+
 # SSH 多账户配置示例
 # 将此文件内容复制到 ~/.ssh/config 中使用
 # 注意：请根据实际情况修改密钥文件路径和邮箱

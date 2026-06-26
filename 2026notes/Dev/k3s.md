@@ -1,3 +1,14 @@
+---
+title: "k3s"
+tags:
+  - AI
+  - 开发
+  - 技术
+  - Docker
+description: "好的，我为你整理了一份 k3s 从零到部署应用的完整教程，专门针对你在 VMware 里那台 Manjaro 虚拟机。"
+created: 2026-06-23
+---
+
 好的，我为你整理了一份 **k3s 从零到部署应用的完整教程**，专门针对你在 VMware 里那台 Manjaro 虚拟机。  
 所有步骤都经过精简，照着敲命令就行。
 

@@ -1,3 +1,13 @@
+---
+title: "git小技巧"
+tags:
+  - Git
+  - GitHub
+  - 版本控制
+description: "执行一次 git config --global alias.ac '!git add -A && git commit -m' 后，以后你只需要敲："
+created: 2026-06-23
+---
+
 执行一次 git config --global alias.ac '!git add -A && git commit -m' 后，以后你只需要敲：
 bash
 

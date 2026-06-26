@@ -1,5 +1,5 @@
 ---
-title: Tavily 全面指南 — AI 专用搜索引擎
+title: "Tavily 全面指南 — AI 专用搜索引擎"
 tags:
   - tavily
   - search
@@ -9,10 +9,11 @@ tags:
   - langchain
   - dify
 aliases:
-  - Tavily 教程
-  - Tavily API 指南
-created: 2026-06-23
+  - "Tavily 教程"
+  - "Tavily API 指南"
+description: "Tavily 是一个专为 AI Agent 和 LLM（大语言模型）设计的搜索引擎 API。与传统搜索引擎（Google、Bing）返回链接列表不同，Tavily 直接返回清洗后的结构化纯文本，过滤广告、导航栏和杂乱 HTML，专供大模型快速消费，大幅降低 token 浪费和幻觉风险。"
 ---
+
 
 # Tavily 全面指南 — AI 专用搜索引擎
 

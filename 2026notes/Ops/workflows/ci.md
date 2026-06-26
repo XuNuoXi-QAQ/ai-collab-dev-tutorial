@@ -1,3 +1,13 @@
+---
+title: "ci"
+tags:
+  - 工作流
+  - CI/CD
+  - Git
+description: "cd /var/www/your-app"
+created: 2026-06-23
+---
+
 # GitHub Actions CI/CD 工作流示例
 # 将此文件复制到 .github/workflows/ci.yml 中使用
 

@@ -1,3 +1,14 @@
+---
+title: "02-quartz-digital-garden"
+tags:
+  - Git
+  - GitHub
+  - 版本控制
+  - Obsidian
+description: "1. 访问 Quartz 的 GitHub 模板页面。"
+created: 2026-06-23
+---
+
 # Quartz + GitHub Pages + Obsidian 自动化数字花园搭建指南
 
 > 将 Obsidian 笔记变成个人网站的强大方案，实现全自动化部署。

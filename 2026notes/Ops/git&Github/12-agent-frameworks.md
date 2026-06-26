@@ -1,9 +1,18 @@
 ---
-tags: [AI, Agent, 框架, LangChain, AutoGPT, CrewAI]
-aliases: [Agent 框架选型, AI 框架对比]
-created: 2026-06-21
-updated: 2026-06-21
+title: "12-agent-frameworks"
+tags:
+  - AI
+  - Agent
+  - 框架
+  - LangChain
+  - AutoGPT
+  - CrewAI
+aliases:
+  - "Agent 框架选型"
+  - "AI 框架对比"
+description: "LangChain 是目前最流行的 AI Agent 开发框架，提供了丰富的组件和工具，可以快速构建各种类型的 Agent 应用。"
 ---
+
 
 # 主流 Agent 框架对比
 

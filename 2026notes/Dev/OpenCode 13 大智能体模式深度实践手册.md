@@ -1,8 +1,18 @@
 ---
-tags: [OpenCode, AI-Agent, 开发工具, Tauri, Obsidian插件, 工作流]
-cssclasses: [wide-table]
-cover: https://opencode.ai/og-image.png
+title: "OpenCode 13 大智能体模式深度实践手册"
+tags:
+  - OpenCode
+  - AI-Agent
+  - 开发工具
+  - Tauri
+  - Obsidian插件
+  - 工作流
+cssclasses:
+  - "wide-table"
+cover: "https://opencode.ai/og-image.png"
+description: "OpenCode 的 13 个模式并非简单的“提示词模板切换”，而是基于 Agentic Workflow（代理工作流） 的底层重构。每个模式在启动时，都会动态注入三组截然不同的核心参数："
 ---
+
 # 🧠 OpenCode 13 大智能体模式深度实践手册
 
 > **适用场景**：Tauri + Obsidian 插件全栈开发 | **核心价值**：不只解释“是什么”，更规定“何时用”与“怎么配”

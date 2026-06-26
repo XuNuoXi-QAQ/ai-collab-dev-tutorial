@@ -1,9 +1,17 @@
 ---
-tags: [AI, Agent, 多智能体, 架构, MoA]
-aliases: [MoA 架构, 多智能体协作]
-created: 2026-06-21
-updated: 2026-06-21
+title: "09-multi-agent-architecture"
+tags:
+  - AI
+  - Agent
+  - 多智能体
+  - 架构
+  - MoA
+aliases:
+  - "MoA 架构"
+  - "多智能体协作"
+description: "MoA（Mixture of Agents） 是一种多 Agent 协作架构，灵感来自于混合专家模型（MoE）。它的核心思想是："
 ---
+
 
 # 多 Agent 协作架构
 

@@ -1,3 +1,14 @@
+---
+title: "gitconfig-example"
+tags:
+  - 工作流
+  - CI/CD
+  - Linux
+  - Git
+description: "autocrlf = input"
+created: 2026-06-23
+---
+
 # Git 配置示例
 # 将此文件内容复制到 ~/.gitconfig 中使用
 # 或使用 git config 命令逐条设置

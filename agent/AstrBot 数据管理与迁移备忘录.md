@@ -1,3 +1,13 @@
+---
+title: "AstrBot 数据管理与迁移备忘录"
+tags:
+  - AI
+  - Agent
+  - Docker
+  - AstrBot
+description: "目的：保存当前所有个性化配置、插件和数据。"
+created: 2026-06-23
+---
 
 ## 一、核心原则
 
@@ -124,4 +134,3 @@ systemctl --user start astrbot.service
 | 备份 data 目录 | `tar -czf backup_$(date +%Y%m%d).tar.gz ~/astrbot-local/data/` |
 | 恢复 data 目录 | `rm -rf ~/astrbot-local/data && cp -r /backup/data ~/astrbot-local/` |
 | 重新加载服务配置 | `systemctl --user daemon-reload` |
-

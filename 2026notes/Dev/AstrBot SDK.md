@@ -1,3 +1,15 @@
+---
+title: "AstrBot SDK"
+tags:
+  - AI
+  - 开发
+  - 技术
+  - AstrBot
+  - Git
+description: "这是一份AstrBot SDK的系统性开发教程，会从基础概念开始，一步步带你完成第一个插件的开发。"
+created: 2026-06-23
+---
+
 这是一份AstrBot SDK的系统性开发教程，会从基础概念开始，一步步带你完成第一个插件的开发。
 
 ### 📖 什么是AstrBot SDK？

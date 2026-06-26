@@ -1,3 +1,15 @@
+---
+title: "Obsidian Git"
+tags:
+  - "AI"
+  - "开发"
+  - "技术"
+  - "Obsidian"
+  - "Git"
+description: "在插件设置页面的 \"Source control view\" 区域上方，你需要填写："
+created: "2026-06-23"
+description: "🖥️ 第三步（修订版）：配置 Obsidian Git 插件"
+---
 
 
 ### 🖥️ 第三步（修订版）：配置 Obsidian Git 插件

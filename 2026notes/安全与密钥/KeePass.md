@@ -6,10 +6,11 @@ tags:
   - 安全
   - 同步
 aliases:
-  - KeePassXC
-  - 密码管理器
-created: 2026-06-23
+  - "KeePassXC"
+  - "密码管理器"
+description: "这份指南将带你完成从安装 KeePassXC 到实现 Linux 桌面、浏览器和安卓手机三端同步的全部配置。"
 ---
+
 这份指南将带你完成从安装 KeePassXC 到实现 Linux 桌面、浏览器和安卓手机三端同步的全部配置。
 
 ---

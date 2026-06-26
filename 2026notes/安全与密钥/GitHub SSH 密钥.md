@@ -6,10 +6,11 @@ tags:
   - 密钥
   - 安全
 aliases:
-  - GitHub SSH
-  - SSH Key GitHub
-created: 2026-06-23
+  - "GitHub SSH"
+  - "SSH Key GitHub"
+description: "GitHub SSH 密钥本质上是一个安全的身份验证机制，它让你无需每次输入密码，就能通过 SSH 协议与 GitHub 进行安全的 Git 操作（如 clone、push、pull）。"
 ---
+
 GitHub SSH 密钥本质上是一个**安全的身份验证机制**，它让你无需每次输入密码，就能通过 SSH 协议与 GitHub 进行安全的 Git 操作（如 clone、push、pull）。
 
 

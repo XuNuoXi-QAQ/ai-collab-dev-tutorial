@@ -1,3 +1,13 @@
+---
+title: "03-pull-request-workflow"
+tags:
+  - Git
+  - GitHub
+  - 版本控制
+description: "第 2 步：在 GitHub 上创建 PR"
+created: 2026-06-23
+---
+
 # 第 3 章：Pull Request 工作流程
 
 ## 🎯 学习目标

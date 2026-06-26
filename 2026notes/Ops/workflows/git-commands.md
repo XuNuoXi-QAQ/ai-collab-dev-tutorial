@@ -1,3 +1,15 @@
+---
+title: "git-commands"
+tags:
+  - "工作流"
+  - "CI/CD"
+  - "Git"
+description: "git config --global user.name \"Your Name\""
+created: "2026-06-23"
+description: "!/bin/bash"
+---
+
+
 #!/bin/bash
 
 # ============================================

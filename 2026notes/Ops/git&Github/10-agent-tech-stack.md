@@ -1,9 +1,17 @@
 ---
-tags: [AI, Agent, 技术栈, LLM, 工具调用]
-aliases: [Agent 技术详解, 智能体技术栈]
-created: 2026-06-21
-updated: 2026-06-21
+title: "10-agent-tech-stack"
+tags:
+  - AI
+  - Agent
+  - 技术栈
+  - LLM
+  - 工具调用
+aliases:
+  - "Agent 技术详解"
+  - "智能体技术栈"
+description: "工具调用让 Agent 能够使用外部工具来完成任务，而不仅仅是靠模型自身的知识。"
 ---
+
 
 # Agent 技术栈详解
 

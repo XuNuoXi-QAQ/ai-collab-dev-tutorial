@@ -6,9 +6,10 @@ tags:
   - AI-Agent
   - 配置
 aliases:
-  - Pi SiliconFlow 配置
-created: 2026-06-23
+  - "Pi SiliconFlow 配置"
+description: "核心思路是：通过修改 `pi` 的配置文件，将 SiliconFlow 添加为一个 OpenAI 兼容的 API 提供商。这个方法是通用的，也适用于你提到的 `deepseek-ai/DeepSeek-V4-Pro` 模型。"
 ---
+
 核心思路是：**通过修改 `pi` 的配置文件，将 SiliconFlow 添加为一个 OpenAI 兼容的 API 提供商**。这个方法是通用的，也适用于你提到的 `deepseek-ai/DeepSeek-V4-Pro` 模型。
 
 ### 📝 完整终端配置步骤

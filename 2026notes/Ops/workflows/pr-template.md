@@ -1,3 +1,12 @@
+---
+title: "pr-template"
+tags:
+  - 工作流
+  - CI/CD
+description: "Related to #789"
+created: 2026-06-23
+---
+
 ## 变更说明
 
 <!-- 简要描述这个 PR 做了什么，为什么要做 -->

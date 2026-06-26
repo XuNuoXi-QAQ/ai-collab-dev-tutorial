@@ -1,7 +1,18 @@
 ---
-tags: [npm, pnpm, Manjaro, Linux, 环境变量, 代理配置, 踩坑实录]
-cssclasses: [wide-table]
+title: "npm"
+tags:
+  - npm
+  - pnpm
+  - Manjaro
+  - Linux
+  - 环境变量
+  - 代理配置
+  - 踩坑实录
+cssclasses:
+  - "wide-table"
+description: "为什么不推荐 `sudo pacman -S pnpm`？"
 ---
+
 
 
 # 📦 npm 批判与 pnpm 救赎：Manjaro 全实战笔记（8000 字完整版）

@@ -1,3 +1,11 @@
+---
+title: "docker-cli"
+tags:
+  - Docker
+  - 容器
+description: "🔍 容器查看与调试"
+created: 2026-06-23
+---
 
 ## 📦 镜像管理
 

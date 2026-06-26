@@ -7,10 +7,11 @@ tags:
   - Obsidian
   - AstrBot
 aliases:
-  - MCP协议
-  - 模型上下文协议
-created: 2026-06-23
+  - "MCP协议"
+  - "模型上下文协议"
+description: "MCP（模型上下文协议，Model Context Protocol） 可以理解为 AI 领域的“万能插头”或“USB-C 接口”。它由 Anthropic 公司提出，旨在解决大模型与外部世界隔离的问题，通过一套统一的标准，让 AI 应用（Host）能够方便地调用各种外部工具（Tool）和服务。"
 ---
+
 **MCP（模型上下文协议，Model Context Protocol）** 可以理解为 AI 领域的“万能插头”或“USB-C 接口”。它由 Anthropic 公司提出，旨在解决大模型与外部世界隔离的问题，通过一套**统一的标准**，让 AI 应用（Host）能够方便地调用各种外部工具（Tool）和服务。
 
 在你已经配置好的工具链中用好 MCP，核心在于理解其角色分工，并针对你的核心工具（AstrBot、Obsidian）进行配置和扩展。

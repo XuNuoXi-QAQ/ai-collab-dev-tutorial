@@ -7,9 +7,10 @@ tags:
   - Tauri
   - LobeHub
 aliases:
-  - Obsidian Tauri OpenCode LobeHub
-created: 2026-06-23
+  - "Obsidian Tauri OpenCode LobeHub"
+description: "Q1: OpenCode开发Obsidian插件，需要哪些skill？"
 ---
+
 ### 第一部分：Obsidian 插件开发
 
 **Q1: OpenCode开发Obsidian插件，需要哪些skill？**

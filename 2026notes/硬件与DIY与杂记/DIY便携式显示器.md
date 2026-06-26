@@ -1,15 +1,16 @@
 ---
-title: DIY 便携式显示器 — 从零搭建完全指南
+title: "DIY 便携式显示器 — 从零搭建完全指南"
 tags:
   - DIY
   - 硬件
   - 显示器
   - 便携设备
 aliases:
-  - 便携显示器DIY
-  - DIY Monitor
-created: 2026-06-23
+  - "便携显示器DIY"
+  - "DIY Monitor"
+description: "利用淘汰的笔记本屏幕或市售 LCD 面板 + 驱动板 + 外壳，组装一台 HDMI/USB-C 输入的便携显示器，成本远低于市售成品。"
 ---
+
 
 # DIY 便携式显示器 — 从零搭建完全指南
 

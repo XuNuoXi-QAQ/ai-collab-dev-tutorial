@@ -6,8 +6,9 @@ tags:
   - 容器
   - 运维
   - 命令
-created: 2026-06-23
+description: "Docker 是容器化技术的核心工具，你已经通过 Docker 部署了 AstrBot 和 1Panel。这组命令帮助你管理容器、镜像、网络和存储。"
 ---
+
 # Docker 管理命令精讲
 
 Docker 是容器化技术的核心工具，你已经通过 Docker 部署了 **AstrBot** 和 **1Panel**。这组命令帮助你管理容器、镜像、网络和存储。

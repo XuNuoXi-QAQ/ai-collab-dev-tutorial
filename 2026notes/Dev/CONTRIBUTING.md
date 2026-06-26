@@ -1,3 +1,11 @@
+---
+title: "CONTRIBUTING"
+tags:
+  - 开发
+  - 规范
+description: "本项目的贡献指南与协作规范。"
+created: 2026-06-23
+---
 # 贡献指南
 
 首先，感谢你花时间为这个项目做贡献！🎉

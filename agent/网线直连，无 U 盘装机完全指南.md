@@ -1,7 +1,13 @@
-
-
-
-
+---
+title: "网线直连，无 U 盘装机完全指南"
+tags:
+  - AI
+  - Agent
+  - Linux
+  - Git
+description: "用你的 Windows 物理机 + Manjaro 虚拟机，一根网线给任何电脑（含老机器）安装 Windows / Linux"
+created: 2026-06-23
+---
 
 用你的 Windows 物理机 + Manjaro 虚拟机，一根网线给任何电脑（含老机器）安装 Windows / Linux
 

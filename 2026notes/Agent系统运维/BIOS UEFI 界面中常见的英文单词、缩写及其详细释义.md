@@ -7,9 +7,10 @@ tags:
   - 英文
   - 参考
 aliases:
-  - BIOS UEFI词汇
-created: 2026-06-23
+  - "BIOS UEFI词汇"
+description: "主流主板（华硕、技嘉、微星、华擎等）"
 ---
+
 主流主板（华硕、技嘉、微星、华擎等）
 
 ### 一、界面操作与通用提示

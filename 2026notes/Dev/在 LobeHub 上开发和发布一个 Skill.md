@@ -6,9 +6,10 @@ tags:
   - AI
   - 开发
 aliases:
-  - LobeHub Skill开发
-created: 2026-06-23
+  - "LobeHub Skill开发"
+description: "在 LobeHub 上开发和发布一个 Skill，核心是遵循其关于 `SKILL.md` 文件的规范，并通过社区审核来完成收录。"
 ---
+
 在 LobeHub 上开发和发布一个 Skill，核心是遵循其关于 **`SKILL.md` 文件**的规范，并通过**社区审核**来完成收录。
 
 ### 📝 开发规范：核心是 `SKILL.md`

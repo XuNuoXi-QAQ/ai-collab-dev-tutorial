@@ -1,16 +1,19 @@
 ---
-title: Manjaro 安装 Codex 并配置 DeepSeek
-date: 2026-06-23
+title: "Manjaro 安装 Codex 并配置 DeepSeek"
 tags:
-  - manjaro
-  - codex
-  - deepseek
-  - ai/tools
-  - cli
+  - "manjaro"
+  - "codex"
+  - "deepseek"
+  - "ai/tools"
+  - "cli"
 aliases:
-  - Codex + DeepSeek 配置
-  - Codex 安装指南
+  - "Codex + DeepSeek 配置"
+  - "Codex 安装指南"
+description: "Codex 原生使用 OpenAI 的 Responses API，而 DeepSeek 提供的是 Chat Completions API，两者不兼容。因此需要用 `deepseek-proxy` 作为协议转换工具，在中间\"翻译\"请求，让 Codex 能调用 DeepSeek 模型。"
+description: "🚀 Manjaro 安装 Codex 并配置 DeepSeek"
 ---
+
+
 
 # 🚀 Manjaro 安装 Codex 并配置 DeepSeek
 

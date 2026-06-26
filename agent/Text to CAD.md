@@ -1,4 +1,11 @@
-
+---
+title: "Text to CAD"
+tags:
+  - AI
+  - Agent
+description: "【一句话生成可编辑工程级 CAD 模型！Text to CAD 技能包开源，支持 Codex/OpenClaw 开箱即用-哔哩哔哩】 https://b23.tv/sDwwyZI"
+created: 2026-06-23
+---
 
 【一句话生成可编辑工程级 CAD 模型！Text to CAD 技能包开源，支持 Codex/OpenClaw 开箱即用-哔哩哔哩】 https://b23.tv/sDwwyZI
 

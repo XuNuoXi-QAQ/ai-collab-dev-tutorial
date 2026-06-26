@@ -7,8 +7,9 @@ tags:
   - AUR
   - 包管理
   - Manjaro
-created: 2026-06-23
+description: "包管理是 Arch Linux 系（包括 Manjaro）的核心操作。与 Ubuntu 的 `apt` 或 Fedora 的 `dnf` 不同，Arch 系使用 `pacman` 作为官方包管理器，并通过 AUR（Arch User Repository） 补充社区维护的软件包。"
 ---
+
 包管理是 Arch Linux 系（包括 Manjaro）的核心操作。与 Ubuntu 的 `apt` 或 Fedora 的 `dnf` 不同，Arch 系使用 **`pacman`** 作为官方包管理器，并通过 **AUR（Arch User Repository）** 补充社区维护的软件包。
 
 ---

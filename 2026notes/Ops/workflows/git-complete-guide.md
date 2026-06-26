@@ -1,3 +1,14 @@
+---
+title: "git-complete-guide"
+tags:
+  - 工作流
+  - CI/CD
+  - Docker
+  - Git
+description: "模式一：贡献他人的项目（开源）"
+created: 2026-06-23
+---
+
 # Git 完整知识体系精讲
 
 > 基于 2026-06-21 全天对话整理，从多账户管理到协作工作流，从分支策略到冲突解决，构建完整的 Git 知识框架。

@@ -6,9 +6,10 @@ tags:
   - Manjaro
   - 开发环境
 aliases:
-  - Manjaro AI 工作流
-created: 2026-06-23
+  - "Manjaro AI 工作流"
+description: "1. 用户输入：`@机器人 帮我写一个 Python 脚本，从 API 获取天气数据，保存到 Obsidian`"
 ---
+
 ## 一、你的环境全景
 
 ### 1.1 系统基础

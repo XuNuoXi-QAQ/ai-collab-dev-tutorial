@@ -6,10 +6,11 @@ tags:
   - GitHub-Pages
   - 静态网站
 aliases:
-  - Quartz
-  - GitHub Pages 发布
-created: 2026-06-23
+  - "Quartz"
+  - "GitHub Pages 发布"
+description: "将 Quartz 和 GitHub Pages 结合，是一个能把 Obsidian 笔记变成个人网站的强大方案，而且能实现全自动化。"
 ---
+
 将 Quartz 和 GitHub Pages 结合，是一个能把 Obsidian 笔记变成个人网站的强大方案，而且能实现全自动化。
 
 这个方案的核心思路是：你在 Obsidian 中写笔记，通过 Git 同步到 GitHub，然后 GitHub Actions 自动运行 Quartz 构建网站，最后部署到 GitHub Pages 上。

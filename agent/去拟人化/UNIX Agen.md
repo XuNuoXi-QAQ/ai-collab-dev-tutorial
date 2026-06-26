@@ -1,3 +1,11 @@
+---
+title: "UNIX Agen"
+tags:
+  - AI
+  - 系统设计
+description: "无论数据、设备、进程、网络连接——凡可读可写者，皆可视作文件。统一接口，统一操作。复杂性，因统一而消失。"
+created: 2026-06-23
+---
 
 【UNIX Agent】
 

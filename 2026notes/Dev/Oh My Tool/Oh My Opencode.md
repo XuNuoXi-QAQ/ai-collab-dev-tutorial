@@ -1,5 +1,5 @@
 ---
-title: Oh My Opencode — OpenCode 预设与配置管理框架
+title: "Oh My Opencode — OpenCode 预设与配置管理框架"
 tags:
   - OpenCode
   - AI-Agent
@@ -7,10 +7,11 @@ tags:
   - 配置管理
   - 终端工具
 aliases:
-  - omo
-  - oh-my-opencode
-created: 2026-06-23
+  - "omo"
+  - "oh-my-opencode"
+description: "Oh My Opencode（omo） 是 OpenCode 的「开箱即用」配置套件——一键为 OpenCode 装上子代理体系、预设模型配置、社区 Skill 和 MCP 集成，让裸终端 AI 编码助手瞬间拥有完整的多智能体协作能力。"
 ---
+
 
 # Oh My Opencode — OpenCode 预设与配置管理框架
 

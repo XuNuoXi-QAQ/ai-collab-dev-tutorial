@@ -1,3 +1,13 @@
+---
+title: "01-git-github-basics"
+tags:
+  - Git
+  - GitHub
+  - 版本控制
+description: "GitHub 是一个基于 Git 的代码托管平台，提供了："
+created: 2026-06-23
+---
+
 # 第 1 章：Git 与 GitHub 基础入门
 
 ## 🎯 学习目标

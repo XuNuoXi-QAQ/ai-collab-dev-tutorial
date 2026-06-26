@@ -7,10 +7,11 @@ tags:
   - KVM
   - 安装
 aliases:
-  - PVE安装指南
-  - Proxmox教程
-created: 2026-06-23
+  - "PVE安装指南"
+  - "Proxmox教程"
+description: "Proxmox Virtual Environment（PVE）是一个开源的企业级虚拟化管理平台，集成了 KVM 虚拟机和 LXC 容器，并提供 Web 管理界面。相比于 VMware vSphere 或裸装 KVM，PVE 的优点是："
 ---
+
 ## 1. 写在前面：为什么选择 Proxmox VE？
 
 Proxmox Virtual Environment（PVE）是一个开源的企业级虚拟化管理平台，集成了 KVM 虚拟机和 LXC 容器，并提供 Web 管理界面。相比于 VMware vSphere 或裸装 KVM，PVE 的优点是：

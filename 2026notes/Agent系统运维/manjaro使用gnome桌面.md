@@ -1,5 +1,5 @@
 ---
-title: Manjaro GNOME 桌面完全指南 — 从安装到调优
+title: "Manjaro GNOME 桌面完全指南 — 从安装到调优"
 tags:
   - Manjaro
   - GNOME
@@ -7,10 +7,11 @@ tags:
   - 桌面环境
   - 系统优化
 aliases:
-  - Manjaro GNOME 指南
-  - GNOME on Manjaro
-created: 2026-06-23
+  - "Manjaro GNOME 指南"
+  - "GNOME on Manjaro"
+description: "Manjaro GNOME 将 Arch Linux 的滚动更新能力与 GNOME 的极简设计哲学结合，是需要「最新软件 + 干净桌面」的开发者首选方案。"
 ---
+
 
 # Manjaro GNOME 桌面完全指南 — 从安装到调优
 

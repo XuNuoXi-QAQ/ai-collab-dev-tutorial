@@ -1,9 +1,16 @@
 ---
-tags: [OpenCode, IDE, AI编程, 工具链]
-aliases: [OpenCode 教程, AI 编程助手]
-created: 2026-06-21
-updated: 2026-06-21
+title: "07-opencode-guide"
+tags:
+  - OpenCode
+  - IDE
+  - AI编程
+  - 工具链
+aliases:
+  - "OpenCode 教程"
+  - "AI 编程助手"
+description: "2. 配置 API 密钥（或使用免费模型）"
 ---
+
 
 # OpenCode 使用指南
 

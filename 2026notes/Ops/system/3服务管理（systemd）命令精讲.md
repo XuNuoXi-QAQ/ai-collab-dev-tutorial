@@ -6,8 +6,9 @@ tags:
   - 服务
   - 运维
   - 命令
-created: 2026-06-23
+description: "`systemd` 是 Linux 系统的初始化系统和服务管理器，是现代 Linux 发行版（包括 Manjaro）的标配。它管理着系统中所有的服务（Service）——即那些在后台运行的程序，如 Docker、SSH、Web 服务器等。"
 ---
+
 `systemd` 是 Linux 系统的**初始化系统和服务管理器**，是现代 Linux 发行版（包括 Manjaro）的标配。它管理着系统中所有的**服务（Service）**——即那些在后台运行的程序，如 Docker、SSH、Web 服务器等。
 
 ---

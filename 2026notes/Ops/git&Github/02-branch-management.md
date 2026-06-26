@@ -1,3 +1,13 @@
+---
+title: "02-branch-management"
+tags:
+  - Git
+  - GitHub
+  - 版本控制
+description: "Git Flow 是由 Vincent Driessen 提出的一种分支管理模型，适合有计划发布周期的项目。"
+created: 2026-06-23
+---
+
 # 第 2 章：分支管理策略
 
 ## 🎯 学习目标

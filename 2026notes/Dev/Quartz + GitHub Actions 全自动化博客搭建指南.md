@@ -1,8 +1,16 @@
 ---
 title: "Quartz + GitHub Actions 全自动化博客搭建指南"
-tags: [教程, Quartz, GitHub, 自动化, Obsidian]
-aliases: [Quartz自动化部署]
+tags:
+  - 教程
+  - Quartz
+  - GitHub
+  - 自动化
+  - Obsidian
+aliases:
+  - "Quartz自动化部署"
+description: "本指南将带你一步步实现：在 Obsidian 中写笔记，自动推送到 GitHub，云端自动构建并发布到 GitHub Pages。全程无需手动部署，真正“写完即走”。"
 ---
+
 
 # 🚀 Quartz + GitHub Actions 全自动化博客搭建指南（从零开始）
 

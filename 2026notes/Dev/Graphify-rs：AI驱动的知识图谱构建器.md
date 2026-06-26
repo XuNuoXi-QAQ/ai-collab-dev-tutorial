@@ -6,10 +6,11 @@ tags:
   - Graphify-rs
   - Rust
 aliases:
-  - Graphify-rs
-  - 知识图谱构建器
-created: 2026-06-23
+  - "Graphify-rs"
+  - "知识图谱构建器"
+description: "Graphify-rs 是 Graphify 的 Rust 重写版本——一个 AI 驱动的知识图谱构建工具，能够将任意文件夹中的代码、文档、论文和图像自动转化为结构化、可查询、可交互的知识图谱。"
 ---
+
 > 将代码、文档、论文、图像转化为可查询、可交互的知识图谱
 
 

@@ -1,3 +1,13 @@
+---
+title: "06-team-collaboration-norms"
+tags:
+  - Git
+  - GitHub
+  - 版本控制
+description: "不要靠人来检查规范，要用工具："
+created: 2026-06-23
+---
+
 # 第 6 章：团队协作规范
 
 ## 🎯 学习目标

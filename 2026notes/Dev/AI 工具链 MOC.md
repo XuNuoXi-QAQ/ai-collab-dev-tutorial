@@ -5,10 +5,11 @@ tags:
   - AI
   - 索引
 aliases:
-  - AI工具链索引
-  - AI MOC
-created: 2026-06-23
+  - "AI工具链索引"
+  - "AI MOC"
+description: "内容地图（Map of Content）— 你的 AI 开发工具与知识体系的导航中枢。"
 ---
+
 
 # 🧠 AI 工具链 MOC
 

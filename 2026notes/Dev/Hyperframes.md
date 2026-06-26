@@ -6,9 +6,10 @@ tags:
   - Hyperframes
   - ffmpeg
 aliases:
-  - Hyperframes视频生成
-created: 2026-06-23
+  - "Hyperframes视频生成"
+description: "Hyperframes 是 HeyGen（全球最大的 AI 数字人视频公司之一）于 2026 年 4 月开源的一个视频渲染框架。它的官方标语极其克制："
 ---
+
 ## 从代码到像素：Hyperframes 深度解析
 
 > 这不是又一款 AI 视频生成器，而是一套让 AI 学会"拍视频"的底层基础设施。

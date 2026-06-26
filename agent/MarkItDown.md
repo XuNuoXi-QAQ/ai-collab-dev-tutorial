@@ -1,5 +1,13 @@
-
-
+---
+title: "MarkItDown"
+tags:
+  - AI
+  - Agent
+  - MCP
+  - Git
+description: "MarkItDown 是微软开源的一款轻量级 Python 工具，旨在成为连接各种文件格式与大语言模型（LLM）的“万能转换器”。它的核心价值在于，能将 PDF、Word、PPT 等非结构化数据，一键转换为 LLM 最“爱吃”的 Markdown 格式。"
+created: 2026-06-23
+---
 
 MarkItDown 是微软开源的一款轻量级 Python 工具，旨在成为连接各种文件格式与大语言模型（LLM）的“万能转换器”。它的核心价值在于，能将 PDF、Word、PPT 等非结构化数据，一键转换为 LLM 最“爱吃”的 Markdown 格式。
 
