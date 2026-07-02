@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d0bf22c7a9cecfe5",
+        "id": "c2240ec0effbdf8e",
         "type": "tabs",
         "children": [
           {
-            "id": "0fd73e3c8177dee6",
+            "id": "0c73295da24632cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Newspaper/Charlie Marsh谈AI.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Charlie Marsh谈AI"
             }
           }
         ]
@@ -130,12 +130,12 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "notebook-navigator"
+              "icon": "notebook-navigator",
+              "title": "笔记本导航器"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI与开发/Quartz + GitHub Actions 全自动化博客搭建指南.md",
+                "file": "Newspaper/Charlie Marsh谈AI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Quartz + GitHub Actions 全自动化博客搭建指南 的大纲"
+              "title": "Charlie Marsh谈AI 的大纲"
             }
           },
           {
@@ -272,8 +272,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -303,44 +302,44 @@
       "lang-plus:I18n+ Dictionary Manager": false
     }
   },
-  "active": "0fd73e3c8177dee6",
+  "active": "0c73295da24632cb",
   "lastOpenFiles": [
-    "2026notes/Dev/libvips.md",
-    "2026notes/Dev/Obsidian 视频制作工作流.md",
-    "2026notes/Ops/信创 AI 一体机交付操作手册.md",
-    "2026notes/Ops/git&Github/12-agent-frameworks.md",
-    "2026notes/Ops/git&Github/11-agent-collaboration-practice.md",
-    "2026notes/Ops/git&Github/10-agent-tech-stack.md",
-    "2026notes/Ops/git&Github/09-multi-agent-architecture.md",
-    "2026notes/Ops/git&Github/08-ai-agent-basics.md",
-    "2026notes/Ops/git&Github/06-team-collaboration-norms.md",
-    "2026notes/Ops/git&Github/07-opencode-guide.md",
-    "2026notes/Ops/git&Github/05-ai-dev-tools.md",
-    "2026notes/Ops/git&Github/04-code-review-best-practices.md",
-    "2026notes/Ops/git&Github/03-pull-request-workflow.md",
-    "2026notes/Ops/git&Github/02-quartz-digital-garden.md",
-    "2026notes/Ops/git&Github/02-branch-management.md",
-    "2026notes/Ops/git&Github/01-git-github-basics.md",
-    "2026notes/Ops/git&Github/00-complete-learning-record.md",
+    "2026notes/tools/让手机上的小程序成为电脑上各种AI工具的统一入口.md",
+    "2026notes/tools/Pass iaas 云开发.md",
+    "2026notes/tools/Linux 系统迁移.md",
+    "2026notes/tools/DeepSeek ++.md",
+    "2026notes/tools/CC Switch.md",
+    "2026notes/tools/Agent 桥.md",
+    "2026notes/tools",
+    "Newspaper/Charlie Marsh谈AI.md",
+    "2026notes/全球视野/文明代谢：物质耗散体系与资源-文明周期论的统一结构.md",
+    "Newspaper/OpenClaw 全平台、全方式部署指南.md",
+    "2026notes/河南省人工智能学会.md",
+    "2026notes/故事会/selindell造物.md",
+    "2026notes/全球视野/周期理论/物质、能量、信息与文明.md",
+    "2026notes/全球视野/周期理论/周期理论.md",
+    "2026notes/Agent媒体运维/Hyperframes.md",
+    "2026notes/全球视野/周期理论/资源-文明周期论：思想体系总纲.md",
+    "2026notes/全球视野/周期理论/资源-文明周期论.md",
+    "2026notes/全球视野/周期理论/物质耗散体系：文明演化逻辑的总框架.md",
+    "2026notes/全球视野/周期理论",
+    "2026notes/文献库/arXiv.md",
+    "2026notes/文献库/PhilPapers.md",
+    "2026notes/Agent媒体运维/SadTalker数字人.md",
+    "2026notes/文献库",
+    "2026notes/Agent媒体运维/Wechatsync 完全指南：实现“一次写作，全平台发布”的系统性解决方案.md",
+    "2026notes/Agent媒体运维/social-auto-upload.md",
+    "2026notes/Agent媒体运维/Obsidian 笔记 → 多平台视频 自动化体系.md",
+    "2026notes/操作系统/FHS文件系统规范_Linux.md",
+    "2026notes/操作系统/移动系统制作.md",
+    "2026notes/操作系统/manjaro使用gnome桌面.md",
+    "2026notes/Agent媒体运维",
+    "agent/跨平台 AI Agent 权限审批小程序",
     "2026notes/Ops/git&Github",
-    "2026notes/Ops/Neovim/NvimTree.md",
-    "2026notes/Ops/Neovim/nvim-cli.md",
     "2026notes/Ops/Neovim",
-    "2026notes/Ops/docker/docker-cli.md",
     "2026notes/Ops/docker/docker-cli",
     "2026notes/Ops/docker",
-    "2026notes/Ops/system/Linux 系统管理命令快速参考卡.md",
-    "2026notes/Ops/system/9Docker 管理命令精讲.md",
-    "2026notes/Ops/system/8日志管理命令精讲.md",
-    "2026notes/Ops/system/7网络管理命令精讲.md",
-    "2026notes/Ops/system/6用户与权限管理命令精讲.md",
-    "2026notes/Ops/system/5包管理（pacman   yay    paru）命令精讲.md",
     "2026notes/Ops/system",
-    "2026notes/全球视野",
-    "2026notes/实用工具",
-    "2026notes/操作系统",
-    "2026notes/Newspaper",
-    "2026notes/硬件与DIY与杂记/attachments/光为视讯14+2百兆POE交换机配置",
     "attachments/光为视讯14+2百兆POE交换机配置/光为视讯14+2百兆POE交换机配置-1.jpg",
     "attachments/光为视讯14+2百兆POE交换机配置/光为视讯14+2百兆POE交换机配置.jpg",
     "Nuoxi-diary/MBTI-Nuoxi/attachments/Quik/IMG-Quik-6.jpeg",
